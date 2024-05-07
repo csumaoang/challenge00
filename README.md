@@ -1,6 +1,14 @@
 # challenge00
-This is a ruby project.
+This is a challenge designed to display the basics of the Ruby programming language.
 
-## This is a subheading.
+## Part 1
 
-I am **bold** and this is *italicized*
+This Ruby program calculates the after tax value of a specific dollar amount. 
+
+## Part 2
+
+Updated the Ruby program from question one such that it prints a short message after the grand total.
+
+## Part 3
+
+Updated the Ruby program from question two such that it reads keyboard input from Ruby converts the input to a float.
