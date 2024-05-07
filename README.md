@@ -11,4 +11,4 @@ Updated the Ruby program from question one such that it prints a short message a
 
 ## Part 3
 
-Updated the Ruby program from question two such that it reads keyboard input from Ruby converts the input to a float.
+Updated the Ruby program from question two such that it reads keyboard input from Ruby and converts the input to a float.
